@@ -62,11 +62,11 @@ Ao final deve se exibir uma mensagem:
 
 O código final foi:
 
-![image](https://github.com/AgataAraujo-dev/Desafio3_classesJogo/assets/139137656/4f7cb041-d97e-4c0e-a2ce-9f569eee3681)
+![desafio3js](https://github.com/AgataAraujo-dev/Desafio3_classesJogo/assets/139137656/aad2bb2a-d75d-4858-b980-609c0297672d)
 
 E o resultado seguiu o esperado:
 
-![image](https://github.com/AgataAraujo-dev/Desafio3_classesJogo/assets/139137656/be8eb583-3277-4368-bc9c-5c1a23baef12)
+![desafio3result](https://github.com/AgataAraujo-dev/Desafio3_classesJogo/assets/139137656/396a7d7e-a9b8-4459-bde6-f77b05c397e4)
 
 
 ## Tecnologias Utilizadas
@@ -139,8 +139,8 @@ DrEstranho.atacar()
 Deixarei abaixo o código do mesmo desafio desenvolvido utilizando Python, ao contrário do anterior desta vez tentei desenvolver desde o início sem usar o código em JavaScript como base, assim pude utilizar outras maneiras de chegar ao mesmo resultado, porém que em uma aplicação real seria de fácil manutenção. 
 O código final foi:
 
-![image](https://github.com/AgataAraujo-dev/Desafio3_classesJogo/assets/139137656/be40113e-9fa4-4929-b3ea-0f286e07fcb8)
+![desafio3py](https://github.com/AgataAraujo-dev/Desafio3_classesJogo/assets/139137656/04403ecb-c9ff-4464-9aa0-4d255fd825fe)
 
 E o resultado seguiu o esperado:
 
-![image](https://github.com/AgataAraujo-dev/Desafio3_classesJogo/assets/139137656/2df315be-6d5e-4991-9a33-81f099f5eae7)
+![desafio3result](https://github.com/AgataAraujo-dev/Desafio3_classesJogo/assets/139137656/396a7d7e-a9b8-4459-bde6-f77b05c397e4)
